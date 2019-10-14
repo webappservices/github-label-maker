@@ -1,70 +1,38 @@
 [
   {
-    "name": "All Comments Addressed",
-    "color": "006b75"
+    "name": "bug",
+    "color": "d73a4a"
   },
   {
-    "name": "Do Not Merge",
-    "color": "b60205"
+    "name": "feature",
+    "color": "33aa3f"
   },
   {
-    "name": "Final Review Passed",
-    "color": "0e8a16"
-  },
-  {
-    "name": "Has Dependencies",
+    "name": "needs-qa",
     "color": "5319e7"
   },
   {
-    "name": "Has Unaddressed Comments",
-    "color": "d93f0b"
+    "name": "on-hold",
+    "color": "ef9221"
   },
   {
-    "name": "In Development",
-    "color": "fbca04"
+    "name": "pending-deployment",
+    "color": "aaaaaa"
   },
   {
-    "name": "In QA",
-    "color": "fbca04"
+    "name": "question",
+    "color": "cc317c"
   },
   {
-    "name": "In Review",
-    "color": "fbca04"
+    "name": "tweak",
+    "color": "84b6eb"
   },
   {
-    "name": "Initial Review Passed",
-    "color": "0e8a16"
+    "name": "waiting-on-customer",
+    "color": "a2eeef"
   },
   {
-    "name": "Needs Final Review",
-    "color": "b60205"
-  },
-  {
-    "name": "Needs Rebase",
-    "color": "e99695"
-  },
-  {
-    "name": "Pending CI",
-    "color": "fef2c0"
-  },
-  {
-    "name": "QA Failed",
-    "color": "b60205"
-  },
-  {
-    "name": "QA Passed",
-    "color": "0e8a16"
-  },
-  {
-    "name": "Ready for QA",
-    "color": "c2e0c6"
-  },
-  {
-    "name": "Ready for Review",
-    "color": "c2e0c6"
-  },
-  {
-    "name": "Tests Failing",
-    "color": "b60205"
+    "name": "wish",
+    "color": "000000"
   }
 ]
